@@ -1,0 +1,24 @@
+[project]
+name = "voice-assistant"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "faster-whisper",
+    "sounddevice",
+    "numpy",
+    "SpeechRecognition",
+    "pyautogui",
+    "pyttsx3",
+    "psutil",
+    "pycaw",
+    "comtypes",
+    "anthropic",
+    "google-genai",
+    "yt-dlp",
+    "keyboard",
+    "fastapi",
+    "uvicorn",
+]
+
+[tool.uv]
+package = false

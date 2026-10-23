@@ -1,0 +1,15 @@
+faster-whisper
+sounddevice
+numpy
+SpeechRecognition
+pyautogui
+pyttsx3
+psutil
+pycaw
+comtypes
+anthropic
+google-genai
+yt-dlp
+keyboard
+fastapi
+uvicorn
